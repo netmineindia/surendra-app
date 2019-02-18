@@ -9,7 +9,7 @@
       "urls": [
         "/surendra-app/favicon.ico",
         "/surendra-app/index.html",
-        "/surendra-app/main.2d80190abf713b0c0802.js",
+        "/surendra-app/main.d4cc5db344e65ca4c879.js",
         "/surendra-app/polyfills.b12fea8944c919f6cfd7.js",
         "/surendra-app/runtime.ec2944dd8b20ec099bf3.js",
         "/surendra-app/styles.4c483a2173af5cedfc71.css"
@@ -218,8 +218,8 @@
     "/surendra-app/assets/img/tab_home.png": "6360827e3e256e44f518b43b5bddff8b6b18a13d",
     "/surendra-app/assets/img/wisdom-logo.jpg": "7069eb5fe3d5c03d1289322b4b50cf10beb67db3",
     "/surendra-app/favicon.ico": "68e08a5156f9f70f32d24e6c7accc594658f97e4",
-    "/surendra-app/index.html": "34005a1b45a871a5ce6cc8aec24822dcbe98ded4",
-    "/surendra-app/main.2d80190abf713b0c0802.js": "f9e2ffa52cc95f6a50d9303687e6d3f734b3bb22",
+    "/surendra-app/index.html": "29cedf39fa218943f23ec81a82eec03bfbec5fa8",
+    "/surendra-app/main.d4cc5db344e65ca4c879.js": "58bca92d0c0454660cdf47f6da7005a974d68421",
     "/surendra-app/polyfills.b12fea8944c919f6cfd7.js": "2b8c831372f31e2f94a005a3c68018c986cb2b83",
     "/surendra-app/runtime.ec2944dd8b20ec099bf3.js": "21109b3561b5a6c3ed51bc3015962f05da8e57b3",
     "/surendra-app/styles.4c483a2173af5cedfc71.css": "739f67633f855e619ee581b845c20ed3139ef87c"

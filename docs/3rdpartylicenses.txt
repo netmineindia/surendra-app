@@ -2552,6 +2552,9 @@ SOFTWARE.
 @angular/service-worker
 MIT
 
+ngx-webcam
+MIT
+
 core-js
 MIT
 Copyright (c) 2014-2018 Denis Pushkarev

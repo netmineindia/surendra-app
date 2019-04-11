@@ -9,7 +9,7 @@
       "urls": [
         "/surendra-app/favicon.ico",
         "/surendra-app/index.html",
-        "/surendra-app/main.b8fdae69e33d7b0da0f2.js",
+        "/surendra-app/main.d7611d3e3cc468f32eaa.js",
         "/surendra-app/polyfills.b12fea8944c919f6cfd7.js",
         "/surendra-app/runtime.ec2944dd8b20ec099bf3.js",
         "/surendra-app/styles.6467c8dabfd6172ee664.css"
@@ -21,8 +21,6 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/surendra-app/assets/data/bar.json",
-        "/surendra-app/assets/data/company.json",
         "/surendra-app/assets/fonts/data-table.woff",
         "/surendra-app/assets/icons/icon-128x128.png",
         "/surendra-app/assets/icons/icon-144x144.png",
@@ -144,15 +142,20 @@
         "/surendra-app/assets/img/sync_arrow.png",
         "/surendra-app/assets/img/tab_home.png",
         "/surendra-app/assets/img/testimony_bg.png",
-        "/surendra-app/assets/img/wisdom-logo.png"
+        "/surendra-app/assets/img/wisdom-logo.png",
+        "/surendra-app/check-off.da403dbcf8937ea8c5b7.png",
+        "/surendra-app/check-on.433ddff19b7cab3eab07.png",
+        "/surendra-app/close.e5dcb0d4ac75edc1125c.png",
+        "/surendra-app/loading.96cad076b577263eff82.gif",
+        "/surendra-app/radio-off.5165e288e448cb2450d7.png",
+        "/surendra-app/radio-on.4b3dc53a9dce91c21d32.png",
+        "/surendra-app/search.84f4f91071fcd49d3cc7.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/surendra-app/assets/data/bar.json": "3ab0398386928592d9936f90a80a8ce823bb0138",
-    "/surendra-app/assets/data/company.json": "dc9a0b5b884df8d70842d3e5c1537e4fc5f2b794",
     "/surendra-app/assets/fonts/data-table.woff": "d4582b40484b4ee1fd334a5577fd945e804484f9",
     "/surendra-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/surendra-app/assets/icons/icon-144x144.png": "7329a518718795665084fe70d9c9c944c3c4b14c",
@@ -275,11 +278,18 @@
     "/surendra-app/assets/img/tab_home.png": "6360827e3e256e44f518b43b5bddff8b6b18a13d",
     "/surendra-app/assets/img/testimony_bg.png": "425d657a2553908b3892a1b88d5ef72ee79af59d",
     "/surendra-app/assets/img/wisdom-logo.png": "7069eb5fe3d5c03d1289322b4b50cf10beb67db3",
+    "/surendra-app/check-off.da403dbcf8937ea8c5b7.png": "eff10417adae4f10ed40fe63b6692981374e0cf2",
+    "/surendra-app/check-on.433ddff19b7cab3eab07.png": "0ef825f7a58c3cdac28eb572c8d0d08250884968",
+    "/surendra-app/close.e5dcb0d4ac75edc1125c.png": "d9992ece070e048fa34fea3c9a1154c22a7f0cd1",
     "/surendra-app/favicon.ico": "68e08a5156f9f70f32d24e6c7accc594658f97e4",
-    "/surendra-app/index.html": "91757326add0550882845cc7442cfbc72bc035ed",
-    "/surendra-app/main.b8fdae69e33d7b0da0f2.js": "6b818b78de081639b3b93aa56ffafa77196717af",
+    "/surendra-app/index.html": "82262710012a715fb6f1475c9181c779dd7bb2a9",
+    "/surendra-app/loading.96cad076b577263eff82.gif": "1201be6e66aebffc43dae6e3c6201bfe5ecf0d2f",
+    "/surendra-app/main.d7611d3e3cc468f32eaa.js": "8b87c25c51dc05df7bcdba027d07fbf7ea5472a7",
     "/surendra-app/polyfills.b12fea8944c919f6cfd7.js": "2b8c831372f31e2f94a005a3c68018c986cb2b83",
+    "/surendra-app/radio-off.5165e288e448cb2450d7.png": "ef08a648bc8a0bf30f6ee05eccb205b0aa5590bf",
+    "/surendra-app/radio-on.4b3dc53a9dce91c21d32.png": "428ab3d0f4b1928a22dad2a5b14748669b44e576",
     "/surendra-app/runtime.ec2944dd8b20ec099bf3.js": "21109b3561b5a6c3ed51bc3015962f05da8e57b3",
+    "/surendra-app/search.84f4f91071fcd49d3cc7.png": "882cfb9ac54ec5e7a42b9f607afc6128da9d7bc3",
     "/surendra-app/styles.6467c8dabfd6172ee664.css": "4651795478a32b5ecd8eacbe32ad68cf18418fbf"
   },
   "navigationUrls": [

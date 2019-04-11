@@ -9,7 +9,7 @@
       "urls": [
         "/surendra-app/favicon.ico",
         "/surendra-app/index.html",
-        "/surendra-app/main.164b6fa04d1a5712e947.js",
+        "/surendra-app/main.20feda508198536b63f6.js",
         "/surendra-app/polyfills.b12fea8944c919f6cfd7.js",
         "/surendra-app/runtime.ec2944dd8b20ec099bf3.js",
         "/surendra-app/styles.6467c8dabfd6172ee664.css"
@@ -134,6 +134,7 @@
         "/surendra-app/assets/img/rolocrm_logo.png",
         "/surendra-app/assets/img/sample_product_bg.png",
         "/surendra-app/assets/img/search.png",
+        "/surendra-app/assets/img/search_white.png",
         "/surendra-app/assets/img/settings_grey.png",
         "/surendra-app/assets/img/settings_white.png",
         "/surendra-app/assets/img/share.png",
@@ -263,6 +264,7 @@
     "/surendra-app/assets/img/rolocrm_logo.png": "5bd381f60336f19a06cf324edc094b13e64506f9",
     "/surendra-app/assets/img/sample_product_bg.png": "372ef703897c32d9a11ef4ec4d01490bc7f0073f",
     "/surendra-app/assets/img/search.png": "882cfb9ac54ec5e7a42b9f607afc6128da9d7bc3",
+    "/surendra-app/assets/img/search_white.png": "7c895be01581cf1f078c61ca2fba57ea3fa6ef94",
     "/surendra-app/assets/img/settings_grey.png": "c75328068ddfaebee986cce0be2269b5d4c3fcb9",
     "/surendra-app/assets/img/settings_white.png": "6984ef1b88fa2bd8b54143cbe759c156350596e1",
     "/surendra-app/assets/img/share.png": "ac5ba7635832922cdb54cf5268f9ce1246e727cb",
@@ -274,8 +276,8 @@
     "/surendra-app/assets/img/testimony_bg.png": "425d657a2553908b3892a1b88d5ef72ee79af59d",
     "/surendra-app/assets/img/wisdom-logo.png": "7069eb5fe3d5c03d1289322b4b50cf10beb67db3",
     "/surendra-app/favicon.ico": "68e08a5156f9f70f32d24e6c7accc594658f97e4",
-    "/surendra-app/index.html": "767051f54406b8e7e0f79a3ed8a16f899bc6b0fe",
-    "/surendra-app/main.164b6fa04d1a5712e947.js": "836904ea4085bc8ff6096f7679ca0ef0472e0586",
+    "/surendra-app/index.html": "500ad17b1e232c22ba16b556e7c6757f3350860e",
+    "/surendra-app/main.20feda508198536b63f6.js": "93e14321ffe27ad3bc53bf4d544dda5d584f9d38",
     "/surendra-app/polyfills.b12fea8944c919f6cfd7.js": "2b8c831372f31e2f94a005a3c68018c986cb2b83",
     "/surendra-app/runtime.ec2944dd8b20ec099bf3.js": "21109b3561b5a6c3ed51bc3015962f05da8e57b3",
     "/surendra-app/styles.6467c8dabfd6172ee664.css": "4651795478a32b5ecd8eacbe32ad68cf18418fbf"
